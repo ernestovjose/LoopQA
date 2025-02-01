@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import { verifyTaskInColumn } from './Helper';
+import { verifyTaskInColumn } from './helper';
 
 import * as fs from 'fs';
 
